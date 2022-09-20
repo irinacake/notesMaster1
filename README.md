@@ -2,27 +2,48 @@
 
 The goal of this repository is to act as a tool to share the content of the notes I take from the different classes and "TDs" I attend.
 
-These notes are taken with LaTeX and published on the repository as exported PDF files. Only the PDF files will be shared here.
+These notes are taken with LaTeX and published on the repository as exported PDF files. Only the PDF files are shared here.
 
 ### Disclaimers
 
 Please be advised that :
 
-- These files **CANNOT** replace actual classes. Please do not skip them (especially "TDs") ;
+- These files **DO NOT** replace actual classes. Please do not skip them (especially "TDs") ;
 
-- You should assume that these files **HAVE NOT** been proofread by teachers, as such, they **MAY** contain mistakes (or other sorts of typos) ;
+- You should assume that these files **HAVE NOT** been proofread by teachers (some may have been), as such, they **could** contain mistakes (or other sorts of typos) ;
 
 - I **CANNOT** be held responsible if you happen to be mislead by the content of these files ;
 
-- The content of these files can vary depending on the teacher who gave the class ;
+- The content of these files may not match what you have done during your class if the teacher was a different one ;
 
 - While I intend to update this repository on a weekly basis, do not expect it to be updated on a strict schedule ;
 
-- At the beginning of the year, my LaTeX skills were simply put, null, so do not expect the formatting to be perfect.
+- As of the creating of this repository, my LaTeX skills are not great, so do not expect perfect formatting (I am trying my best)
 
 ### Content
 
 Find one folder per subject, subdivided as necessary.
+Tree as of `Tue 20 Sep 2022` (empty folder may not appear in the repository) :
+
+```bash
+.
+├── AlgorithmiqueAvancee
+│   └── TD_AlgorithmiqueAvancee
+│       └── TD_AlgorithmiqueAvancee.pdf
+├── CalculScientifiqueApprentissageAutomatique
+│   └── Cours_CSAA
+│       └── Cours_CSAA_AlgebreLineaire.pdf
+├── ModelisationConceptionDeveloppementCollaboratif
+├── Parallelisme
+│   └── TD_Parallelisme
+│       └── TD_Parallelisme.pdf
+├── README.md
+└── TheorieDesLangages
+    └── TD_TheorieDesLangages
+        └── TD_TheorieDesLangages.pdf
+
+9 directories, 5 files
+```
 
 ### Credits
 
