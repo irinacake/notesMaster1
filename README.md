@@ -14,6 +14,8 @@ Please be advised that :
 
 - I **CANNOT** be held responsible if you happen to be mislead by the content of these files ;
 
+- The content of these files can vary depending on the teacher who gave the class ;
+
 - While I intend to update this repository on a weekly basis, do not expect it to be updated on a strict schedule ;
 
 - At the beginning of the year, my LaTeX skills were simply put, null, so do not expect the formatting to be perfect.
