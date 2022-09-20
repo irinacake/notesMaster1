@@ -1,12 +1,8 @@
 # Public notes sharing
 
-
-
 The goal of this repository is to act as a tool to share the content of the notes I take from the different classes and "TDs" I attend.
 
 These notes are taken with LaTeX and published on the repository as exported PDF files. Only the PDF files will be shared here.
-
-
 
 ### Disclaimers
 
@@ -18,9 +14,9 @@ Please be advised that :
 
 - I **CANNOT** be held responsible if you happen to be mislead by the content of these files ;
 
-- While I intend to update this repository on a weekly basis, do not expect it to be updated on a strict schedule.
+- While I intend to update this repository on a weekly basis, do not expect it to be updated on a strict schedule ;
 
-
+- At the beginning of the year, my LaTeX skills were simply put, null, so do not expect the formatting to be perfect.
 
 ### Content
 
