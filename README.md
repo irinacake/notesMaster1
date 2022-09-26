@@ -32,17 +32,21 @@ Tree as of `Tue 20 Sep 2022` (empty folder may not appear in the repository) :
 │       └── TD_AlgorithmiqueAvancee.pdf
 ├── CalculScientifiqueApprentissageAutomatique
 │   └── Cours_CSAA
-│       └── Cours_CSAA_AlgebreLineaire.pdf
+│       ├── Cours_CSAA_AlgebreLineaire.pdf
+│       └── Cours_CSAA_ApprentissageNonSupervise.pdf
 ├── ModelisationConceptionDeveloppementCollaboratif
+│   └── gitMemento.pdf
 ├── Parallelisme
 │   └── TD_Parallelisme
 │       └── TD_Parallelisme.pdf
 ├── README.md
 └── TheorieDesLangages
+    ├── Cours_TheorieDesLangages
+    │   └── Cours_TheorieDesLangages_LR(k)_Grammars.pdf
     └── TD_TheorieDesLangages
         └── TD_TheorieDesLangages.pdf
 
-9 directories, 5 files
+10 directories, 8 files
 ```
 
 ### Credits
