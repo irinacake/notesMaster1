@@ -23,7 +23,7 @@ Please be advised that :
 ### Content
 
 Find one folder per subject, subdivided as necessary.
-Tree as of `Tue 20 Sep 2022` (empty folder may not appear in the repository) :
+Tree as of `Mon 26 Sep 2022` (empty folder may not appear in the repository) :
 
 ```bash
 .
