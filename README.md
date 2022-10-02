@@ -23,7 +23,7 @@ Please be advised that :
 ### Content
 
 Find one folder per subject, subdivided as necessary.
-Tree as of `Mon 26 Sep 2022` (empty folder may not appear in the repository) :
+Tree as of `Dec 02 Oct 2022` (empty folder may not appear in the repository) :
 
 ```bash
 .
@@ -44,9 +44,10 @@ Tree as of `Mon 26 Sep 2022` (empty folder may not appear in the repository) :
     ├── Cours_TheorieDesLangages
     │   └── Cours_TheorieDesLangages_LR(k)_Grammars.pdf
     └── TD_TheorieDesLangages
-        └── TD_TheorieDesLangages.pdf
+        ├── TD1_TheorieDesLangages.pdf
+        └── TD2_TheorieDesLangages.pdf
 
-10 directories, 8 files
+10 directories, 9 files
 ```
 
 ### Credits
