@@ -29,7 +29,7 @@ Tree as of `Dec 02 Oct 2022` (empty folder may not appear in the repository) :
 .
 ├── AlgorithmiqueAvancee
 │   └── TD_AlgorithmiqueAvancee
-│       └── TD_AlgorithmiqueAvancee.pdf
+│       └── TD1_AlgorithmiqueAvancee.pdf
 ├── CalculScientifiqueApprentissageAutomatique
 │   └── Cours_CSAA
 │       ├── Cours_CSAA_AlgebreLineaire.pdf
@@ -38,7 +38,8 @@ Tree as of `Dec 02 Oct 2022` (empty folder may not appear in the repository) :
 │   └── gitMemento.pdf
 ├── Parallelisme
 │   └── TD_Parallelisme
-│       └── TD_Parallelisme.pdf
+│       ├── TD_CUDA_Parallelisme.pdf
+│       └── TD_MPI_Parallelisme.pdf
 ├── README.md
 └── TheorieDesLangages
     ├── Cours_TheorieDesLangages
@@ -47,7 +48,7 @@ Tree as of `Dec 02 Oct 2022` (empty folder may not appear in the repository) :
         ├── TD1_TheorieDesLangages.pdf
         └── TD2_TheorieDesLangages.pdf
 
-10 directories, 9 files
+10 directories, 10 files
 ```
 
 ### Credits
