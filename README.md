@@ -36,35 +36,7 @@ Tree as of `Mon 10 Oct 2022` (empty folder may not appear in the repository) :
 │       ├── Cours_CSAA_AlgebreLineaire.pdf
 │       └── Cours_CSAA_ApprentissageNonSupervise.pdf
 ├── Mementos_Et_TPs_OCaml_L3_Info
-│   ├── CT PFITA.pdf
-│   ├── DM_PFITA.pdf
-│   ├── Mementos PFITA
-│   │   ├── PFITA_Memento_1&2.pdf
-│   │   ├── PFITA_Memento_3&4.pdf
-│   │   ├── PFITA_Memento_7&8.pdf
-│   │   └── PFITA_Memento_9.pdf
-│   ├── TAPFA_TP_CoQ
-│   │   ├── tp1_tapfa_coq_corrige.v
-│   │   ├── tp1_tapfa_coq_empty.v
-│   │   └── tp2_tapfa_coq.v
-│   ├── TPs PFITA
-│   │   ├── pfita-tp1.ml
-│   │   ├── pfita-tp2.ml
-│   │   ├── pfita-tp3.ml
-│   │   ├── pfita-tp4.ml
-│   │   ├── pfita-tp5-incomplet.ml
-│   │   ├── pfita-tpne.ml
-│   │   ├── pfita_tp1_sujet.pdf
-│   │   ├── pfita_tp2_sujet.pdf
-│   │   ├── pfita_tp3_sujet.pdf
-│   │   ├── pfita_tp4_sujet.pdf
-│   │   ├── pfita_tp5_sujet.pdf
-│   │   └── pfita_tpne_sujet.pdf
-│   └── TPs TAPFA
-│       ├── tapfa-tp1.ml
-│       ├── tapfa-tp2.ml
-│       ├── tapfa_tp1_sujet.pdf
-│       └── tapfa_tp2_sujet.pdf
+│   ├── ...
 ├── ModelisationConceptionDeveloppementCollaboratif
 │   └── gitMemento.pdf
 ├── Parallelisme
