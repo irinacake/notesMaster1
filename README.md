@@ -23,40 +23,56 @@ Please be advised that :
 ### Content
 
 Find one folder per subject, subdivided as necessary.
-Tree as of `Mon 10 Oct 2022` (empty folder may not appear in the repository) :
+Tree as of `Wed 19 Oct 2022` (empty folder may not appear in the repository) :
 
 ```bash
 .
 ├── AlgorithmiqueAvancee
-│   └── TD_AlgorithmiqueAvancee
-│       ├── TD_Flots_AlgorithmiqueAvancee.pdf
-│       └── TD_PL_AlgorithmiqueAvancee.pdf
+│   └── TD_AlgorithmiqueAvancee
+│       ├── TD_Flots_AlgorithmiqueAvancee.pdf
+│       ├── TD_PLNE_AlgorithmiqueAvancee.pdf
+│       └── TD_PL_AlgorithmiqueAvancee.pdf
 ├── CalculScientifiqueApprentissageAutomatique
-│   └── Cours_CSAA
-│       ├── Cours_CSAA_AlgebreLineaire.pdf
-│       └── Cours_CSAA_ApprentissageNonSupervise.pdf
+│   └── Cours_CSAA
+│       ├── Cours_CSAA_AlgebreLineaire.pdf
+│       └── Cours_CSAA_ApprentissageNonSupervise.pdf
 ├── Mementos_Et_TPs_OCaml_L3_Info
-│   ├── ...
+│   ├── ...
 ├── ModelisationConceptionDeveloppementCollaboratif
-│   └── gitMemento.pdf
+│   └── gitMemento.pdf
 ├── Parallelisme
-│   └── TD_Parallelisme
-│       ├── TD_CUDA_Parallelisme.pdf
-│       └── TD_MPI_Parallelisme.pdf
+│   ├── TD_Parallelisme
+│   │   ├── TD_CUDA_Parallelisme.pdf
+│   │   └── TD_MPI_Parallelisme.pdf
+│   └── TP_Parallelisme
+│       ├── TP_MPI_Parallelisme.pdf
+│       └── TP_MPI_Source_Code
+│           ├── mpi_graph_cut.py
+│           ├── mpi_heat_cut.py
+│           ├── mpi_monte_carlo.py
+│           ├── mpi_primes1.py
+│           ├── mpi_primes2.py
+│           └── mpi_stretching.py
 ├── README.md
 └── TheorieDesLangages
     ├── Cours_TheorieDesLangages
-    │   └── Cours_TheorieDesLangages_LR(k)_Grammars.pdf
+    │   └── Cours_TheorieDesLangages_LR(k)_Grammars.pdf
     └── TD_TheorieDesLangages
-        ├── TD1_TheorieDesLangages.pdf
-        └── TD2_TheorieDesLangages.pdf
+        ├── TD_ER_LL(k)_TheorieDesLangages.pdf
+        └── TD_LR(k)_TheorieDesLangages.pdf
+
+17 directories, 44 files
 ```
 
 ### Credits
 
-Entirely written by Elana Courtines.
+Entirely written and published by Elana Courtines.
 Contact me by :
 
 - email : courtines.e@gmail.com / elana.courtines@univ-tlse3.fr ;
 
 - discord : Irina#5536 (I am very unlikely to accept friend requests, please join a common server).
+
+
+
+# 
