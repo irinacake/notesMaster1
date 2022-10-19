@@ -1,8 +1,8 @@
 # Public notes sharing
 
-The goal of this repository is to act as a tool to share the content of the notes I take from the different classes and "TDs" I attend.
+The goal of this repository is to act as a tool to share the content of the notes that I (the author) have taken from the different classes I have attended during the year 2022-2023 at Université Paul Sabatier : Master Informatique, Parcours SECIL.
 
-These notes are mostly taken with LaTeX and published in the repository as PDF files. Only the PDF files (as well as some source code files) are shared here (exception made to the folder "Mementos_Et_TPs_OCaml_L3_Info").
+These notes were mostly taken with LaTeX and published in the repository as PDF files. Only the PDF files (as well as some source code files) are shared here (exception made to the folder "Mementos_Et_TPs_OCaml_L3_Info").
 
 ### Disclaimers
 
@@ -14,11 +14,11 @@ Please be advised that :
 
 - I **CANNOT** be held responsible if you happen to be mislead by the content of these files ;
 
-- The content of these files may not match what you have done during your class if the teacher was a different one ;
+- The content of these files may not match what you have done during your class (Teacher / Year) ;
 
-- While I intend to update this repository on a weekly basis, do not expect it to be updated on a strict schedule ;
+- While I intend to update this repository on a weekly basis, do not expect it to be updated on a strict schedule (do not expect any update after the year has ended);
 
-- As of the creating of this repository, my LaTeX skills are not great, so do not expect perfect formatting (I am trying my best)
+- My LaTeX skills have significantly changed throughout the updates of this repository, as such, some files may have different formatting.
 
 ### Content
 
