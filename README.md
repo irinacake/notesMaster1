@@ -2,7 +2,7 @@
 
 The goal of this repository is to act as a tool to share the content of the notes I take from the different classes and "TDs" I attend.
 
-These notes are taken with LaTeX and published on the repository as exported PDF files. Only the PDF files are shared here.
+These notes are mostly taken with LaTeX and published in the repository as PDF files. Only the PDF files (as well as some source code files) are shared here (exception made to the folder "Mementos_Et_TPs_OCaml_L3_Info").
 
 ### Disclaimers
 
