@@ -23,44 +23,68 @@ Please be advised that :
 ### Content
 
 Find one folder per subject, subdivided as necessary.
-Tree as of `Wed 19 Oct 2022` (empty folder may not appear in the repository) :
+Tree as of `Tue 15 Nov 2022` (empty folder may not appear in the repository) :
 
 ```bash
 .
+├── AUTHORS
 ├── AlgorithmiqueAvancee
-│   └── TD_AlgorithmiqueAvancee
-│       ├── TD_Flots_AlgorithmiqueAvancee.pdf
-│       ├── TD_PLNE_AlgorithmiqueAvancee.pdf
-│       └── TD_PL_AlgorithmiqueAvancee.pdf
+│   ├── TD_CSP
+│   │   └── Sujet_TD_CSP_AlgorithmiqueAvancee.pdf
+│   ├── TD_Flots
+│   │   ├── Correction_Prof_TD_Flots_AlgorithmiqueAvancee.pdf
+│   │   ├── Sujet_TD_Flots_AlgorithmiqueAvancee.pdf
+│   │   └── TD_Flots_AlgorithmiqueAvancee.pdf
+│   ├── TD_Meta-heuristiques
+│   │   ├── Sujet_TD_MH_AlgorithmiqueAvancee.pdf
+│   │   └── TD_Meta-heuristiques_AlgorithmiqueAvancee.pdf
+│   ├── TD_PL
+│   │   ├── Sujet_TD_PL_AlgorithmiqueAvancee.pdf
+│   │   └── TD_PL_AlgorithmiqueAvancee.pdf
+│   ├── TD_PLNE
+│   │   ├── Sujet_TD_PLNE_AlgorithmiqueAvancee.pdf
+│   │   └── TD_PLNE_AlgorithmiqueAvancee.pdf
+│   └── TD_SAT
+│       └── Sujet_TD_SAT_AlgorithmiqueAvancee.pdf
 ├── CalculScientifiqueApprentissageAutomatique
-│   └── Cours_CSAA
+│   └── Cours
 │       ├── Cours_CSAA_AlgebreLineaire.pdf
-│       └── Cours_CSAA_ApprentissageNonSupervise.pdf
+│       ├── Cours_CSAA_ApprentissageNonSupervise.pdf
+│       └── Cours_CSAA_Optimisation_Partie_1.pdf
+├── LICENCE
 ├── Mementos_Et_TPs_OCaml_L3_Info
 │   ├── ...
 ├── ModelisationConceptionDeveloppementCollaboratif
 │   └── gitMemento.pdf
 ├── Parallelisme
-│   ├── TD_Parallelisme
-│   │   ├── TD_CUDA_Parallelisme.pdf
-│   │   └── TD_MPI_Parallelisme.pdf
-│   └── TP_Parallelisme
-│       ├── TP_MPI_Parallelisme.pdf
-│       └── TP_MPI_Source_Code
-│           ├── mpi_graph_cut.py
-│           ├── mpi_heat_cut.py
-│           ├── mpi_monte_carlo.py
-│           ├── mpi_primes1.py
-│           ├── mpi_primes2.py
-│           └── mpi_stretching.py
+│   ├── TD_Concurrency
+│   ├── TD_Cuda
+│   │   └── TD_Cuda_Parallelisme.pdf
+│   ├── TD_Mpi
+│   │   └── TD_Mpi_Parallelisme.pdf
+│   └── TP_Mpi
+│       ├── Source_code
+│       │   ├── mpi_graph_cut.py
+│       │   ├── mpi_heat_cut.py
+│       │   ├── mpi_monte_carlo.py
+│       │   ├── mpi_primes1.py
+│       │   ├── mpi_primes2.py
+│       │   └── mpi_stretching.py
+│       └── TP_Mpi_Parallelisme.pdf
 ├── README.md
 └── TheorieDesLangages
-    ├── Cours_TheorieDesLangages
+    ├── Cours
     │   └── Cours_TheorieDesLangages_LR(k)_Grammars.pdf
-    └── TD_TheorieDesLangages
+    ├── TD_Database
+    │   ├── TD_Database_TheorieDesLangages.pdf
+    │   ├── ex1.py
+    │   ├── ex2.py
+    │   └── ex2_mais_en_mieux.py
+    └── TD_Grammaires
         ├── TD_ER_LL(k)_TheorieDesLangages.pdf
         └── TD_LR(k)_TheorieDesLangages.pdf
 
+25 directories, 59 files
 17 directories, 44 files
 ```
 
@@ -72,7 +96,5 @@ Contact me by :
 - email : courtines.e@gmail.com / elana.courtines@univ-tlse3.fr ;
 
 - discord : Irina#5536 (I am very unlikely to accept friend requests, please join a common server).
-
-
 
 # 
