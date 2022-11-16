@@ -23,7 +23,7 @@ Please be advised that :
 ### Content
 
 Find one folder per subject, subdivided as necessary.
-Tree as of `Tue 15 Nov 2022` (empty folder may not appear in the repository) :
+Tree as of `Wed 16 Nov 2022` (empty folder may not appear in the repository) :
 
 ```bash
 .
@@ -58,6 +58,7 @@ Tree as of `Tue 15 Nov 2022` (empty folder may not appear in the repository) :
 │   └── gitMemento.pdf
 ├── Parallelisme
 │   ├── TD_Concurrency
+│   │   └── TD_Concurrency_Parallelisme.pdf
 │   ├── TD_Cuda
 │   │   └── TD_Cuda_Parallelisme.pdf
 │   ├── TD_Mpi
