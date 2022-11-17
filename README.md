@@ -23,7 +23,7 @@ Please be advised that :
 ### Content
 
 Find one folder per subject, subdivided as necessary.
-Tree as of `Wed 16 Nov 2022` (empty folder may not appear in the repository) :
+Tree as of `Thu 17 Nov 2022` (empty folder may not appear in the repository) :
 
 ```bash
 .
@@ -55,13 +55,25 @@ Tree as of `Wed 16 Nov 2022` (empty folder may not appear in the repository) :
 ├── Mementos_Et_TPs_OCaml_L3_Info
 │   ├── ...
 ├── ModelisationConceptionDeveloppementCollaboratif
-│   └── gitMemento.pdf
+│   ├── DesignPattern
+│   │   ├── Sujet_TD_DesignPattern_MCDC.pdf
+│   │   ├── TD_DesignPattern_Annexe
+│   │   │   ├── TD1 Annx1 Alice.pdf
+│   │   │   ├── TD1 Annx2 Bob.pdf
+│   │   │   ├── TD1 Annx3 Carole.pdf
+│   │   │   └── TD1 Annx4 David.pdf
+│   │   └── TD_DesignPattern_MCDC.pdf
+│   └── DeveloppementCollaboratif
+│       └── gitMemento.pdf
 ├── Parallelisme
 │   ├── TD_Concurrency
+│   │   ├── Sujet_TD_Concurrency_Parallelisme.pdf
 │   │   └── TD_Concurrency_Parallelisme.pdf
 │   ├── TD_Cuda
+│   │   ├── Sujet_TD_Cuda_Parallelisme.pdf
 │   │   └── TD_Cuda_Parallelisme.pdf
 │   ├── TD_Mpi
+│   │   ├── Sujet_TD_Mpi_Parallelisme.pdf
 │   │   └── TD_Mpi_Parallelisme.pdf
 │   └── TP_Mpi
 │       ├── Source_code
@@ -71,6 +83,7 @@ Tree as of `Wed 16 Nov 2022` (empty folder may not appear in the repository) :
 │       │   ├── mpi_primes1.py
 │       │   ├── mpi_primes2.py
 │       │   └── mpi_stretching.py
+│       ├── Sujet_TP_Mpi_Parallelisme.pdf
 │       └── TP_Mpi_Parallelisme.pdf
 ├── README.md
 └── TheorieDesLangages
@@ -81,12 +94,15 @@ Tree as of `Wed 16 Nov 2022` (empty folder may not appear in the repository) :
     │   ├── ex1.py
     │   ├── ex2.py
     │   └── ex2_mais_en_mieux.py
-    └── TD_Grammaires
-        ├── TD_ER_LL(k)_TheorieDesLangages.pdf
-        └── TD_LR(k)_TheorieDesLangages.pdf
+    ├── TD_Grammaires
+    │   ├── Sujet_TD_ER_LL(k)_TheorieDesLangages.pdf
+    │   ├── Sujet_TD_LR(k)_TheorieDesLangages.pdf
+    │   ├── TD_ER_LL(k)_TheorieDesLangages.pdf
+    │   └── TD_LR(k)_TheorieDesLangages.pdf
+    └── TP_Verification
+        └── tp1.v
 
-25 directories, 59 files
-17 directories, 44 files
+29 directories, 73 files
 ```
 
 ### Credits
