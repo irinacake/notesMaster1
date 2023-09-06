@@ -112,6 +112,6 @@ Contact me by :
 
 - email : courtines.e@gmail.com / elana.courtines@univ-tlse3.fr ;
 
-- discord : Irina#5536 (I am very unlikely to accept friend requests, please join a common server).
+- discord : @chabigesi (I am very unlikely to accept friend requests, please send a DM Request).
 
 # 
